@@ -1,3 +1,5 @@
 praw
 nltk
 tensorflow
+googlesearch-python
+vaderSentiment
